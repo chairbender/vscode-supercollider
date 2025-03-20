@@ -1,5 +1,7 @@
 # SuperCollider Extension for VS Code
 
+
+
 ## Features
 - Limited syntax highlighting
 - Limited code completion, including:
